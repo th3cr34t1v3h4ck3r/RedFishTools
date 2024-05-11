@@ -28,7 +28,7 @@ Crypto Wallet
 
 Settings
 
-	luminosità => 3 - 10 
+	luminosità schermo
 	aggiorna DataOra con WiFi
 	reset EEPROM
 	restart
@@ -36,7 +36,7 @@ Settings
 Preferences (EEPROM)
 
 	capturedCredentials
-	luminosità
+	luminosità schermo
 
 
 Thanks to & Links:
