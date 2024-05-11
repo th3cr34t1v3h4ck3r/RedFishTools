@@ -41,10 +41,10 @@ Preferences (EEPROM)
 
 Thanks to & Links:
 
-https://github.com/marivaaldo/evil-portal-m5stack/
-https://github.com/n0xa/m5stick-nemo
-https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/api/preferences.html
-https://docs.m5stack.com/en/core/m5stickc
+	https://github.com/marivaaldo/evil-portal-m5stack/
+	https://github.com/n0xa/m5stick-nemo
+	https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/api/preferences.html
+	https://docs.m5stack.com/en/core/m5stickc
 
 
 
