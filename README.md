@@ -6,30 +6,37 @@ RedFish Tools
 Features:
 
 Orologio
+
 	data
 	ora
 
 WiFi Scan
+
 	6 connessioni
 
 RedFish Portal
+
 	172.0.0.1
+ 
 		/creds
 		/ssid
 		/clear
 
 Crypto Wallet
-	9 token
+
+	9 tokens
 
 Settings
-  luminosità => 3 - 10 
-  aggiorna DataOra con WiFi
-  reset EEPROM
-  restart
+
+	luminosità => 3 - 10 
+	aggiorna DataOra con WiFi
+	reset EEPROM
+	restart
 
 Preferences (EEPROM)
-  capturedCredentials
-  luminosità
+
+	capturedCredentials
+	luminosità
 
 
 Thanks to & Links:
