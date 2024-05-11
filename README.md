@@ -49,6 +49,7 @@ Preferences (EEPROM)
 	https://github.com/n0xa/m5stick-nemo
 	https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/api/preferences.html
 	https://docs.m5stack.com/en/core/m5stickc
+ 	https://javl.github.io/image2cpp/
 
 
 
