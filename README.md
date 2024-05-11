@@ -41,7 +41,20 @@ Preferences (EEPROM)
 
 	capturedCredentials
 	luminosità schermo
-
+ 
+# Building from Source
+If you want to customize RedFishTools or contribute to the project, you should be familiar with building RedFishTools from source.
+* Install Arduino IDE. I've used arduino-ide_2.3.2_Linux_64bit.AppImage on Linux and Arduino IDE Windows successfully.
+* Install the M5Stack boards for Arduino IDE: In File -> Preferences, paste this URL into the "Boards Manager URLs" text box. Use commas between URLs if there are already URLs present.  https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json
+* If M5Stack -> M5Stick-C doesn't show up under Tools -> Boards, then use Tools -> Boards -> Boards Manager and search for M5Stack. This will install support for most of the M5Stack boards.
+* Ensure the correct device model (e.g. M5Stick-C) is selected in the boards menu.
+* Install necessary libraries. In Sketch -> Include Library -> Library Manager, search for and install the following libraries and any dependencies they require:
+  * M5StickCPlus, M5StickC or M5Cardputer
+  * IRRemoteESP8266
+* Switch partition schemes. `Tools` -> `Partition Scheme` -> `No OTA (Large APP)` - sometimes this option is labeled `Huge APP` 
+* Configuration
+  * The code should compile cleanly and work on an M5Stick C family out of the box from the master branch or a release tag.
+* Compile and upload the project
 
 # Thanks to & Links:
 
