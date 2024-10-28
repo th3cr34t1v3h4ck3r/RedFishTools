@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://opensource.org/licenses/MIT](https://github.com/th3cr34t1v3h4ck3r/RedFishShield/blob/main/LICENSE))
+![](https://img.shields.io/badge/version-0.1-brightgreen)
+
 # RedFishTools
 M5Stick tools for every day hacking.
 
